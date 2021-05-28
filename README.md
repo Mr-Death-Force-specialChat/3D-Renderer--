@@ -1,2 +1,3 @@
-# 3D-Renderer--
+# 3D-Renderer-
 a 3d renderer in a 2d world???????????? in java ??????
+why don't ask me i never understand anything other than coding ( may be others )
